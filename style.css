@@ -1,0 +1,167 @@
+body {
+    font-family: Arial, sans-serif;
+    height: 100%;  
+    margin: 0; 
+    background: linear-gradient(to bottom, #000000, #004f8c, #327288);
+    color: #e9f0f8;
+    background-size: cover;  
+    background-attachment: fixed; 
+}
+header{
+
+
+    padding: 20px 0;    
+}
+
+
+
+header a{
+
+    margin:120px;
+    padding: 10px;
+    text-decoration: none;
+    color:  #004f8c;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    background-color: white;
+}
+
+header nav{
+
+    display: flex;
+    justify-content: center; 
+    gap: 30px;
+   margin-top: 5px;
+
+}
+
+
+header h1{
+
+    font-size: 35px;
+    font-family:  sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+main{
+
+    margin: 20px 20px;
+    padding: 20px 20px;
+text-align: justify;
+
+}
+
+
+main p{
+
+    font-size: 20px;
+    font-family:  sans-serif;
+    
+
+}
+
+main img{
+
+    height: 300px;
+    width: 300px;
+    margin:60px;
+    border: white;
+    border-radius: 15px;
+}
+
+
+
+maim a{
+
+    text-align: center;
+
+}
+
+li{
+
+    font-size: 20px;
+}
+
+
+
+
+footer{
+
+
+        display: block;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 15px;
+}
+
+
+footer a{
+    padding: 20px ;
+    margin:170px;
+    text-decoration: none;
+    color:  black;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 5px ;
+    background-color: white;
+}
+
+
+.button{
+
+    margin:75px;
+    padding: 10px;
+    text-decoration: none;
+    color:  white;
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    background-color: #0091ff;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+
+    color: white;
+}
+
+footer a {
+    padding: 15px 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 25px;
+    background-color: #0091ff;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    height: 100%;  
+    margin: 0; 
+    background: linear-gradient(to bottom, #000000, #004f8c, #327288);
+    color: #e9f0f8;
+    background-size: cover;  
+    background-attachment: fixed; 
+}
+
+
+
+main iframe {
+    display: block;
+    margin: 0 auto;
+}
